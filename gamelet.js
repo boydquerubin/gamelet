@@ -17,3 +17,4 @@ function handleKeyPress(e) {
 function refresh() {
     ball.style.left = position + 'px';
 }
+
